@@ -1,6 +1,5 @@
 # ethar42-resource-pack
 A resource pack for Minecraft.
 
-download file
-put file into resource folder
-play
+# Installation
+To download go to release and download source zip. Extract and place into resource folder. PLAY
